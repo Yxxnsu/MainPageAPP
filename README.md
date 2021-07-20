@@ -1,6 +1,6 @@
 # main_page.gif
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/64016453/126323088-747de835-e4e9-41bb-8666-fcd0ed36e535.gif)
+![ezgif com-gif-maker]<img src = "https://user-images.githubusercontent.com/64016453/126323088-747de835-e4e9-41bb-8666-fcd0ed36e535.gif" width = "300" height="600">
 
 ## Getting Started
 
